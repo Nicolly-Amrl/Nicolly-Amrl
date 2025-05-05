@@ -8,8 +8,8 @@ E-mail: rochaamaralnicolly@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Nicolly-Amrl&show_icons=true&theme=tokyonight&hide_title=false" />
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolly-Amrl&layout=compact&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Nicolly-Amrl&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolly-Amrl&layout=compact&theme=tokyonight" />
 </p>
 
 
