@@ -12,4 +12,4 @@ E-mail: rochaamaralnicolly@gmail.com
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolly-Amrl&layout=compact&theme=tokyonight" />
 </p>
 
-<script src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956.js"></script>
+
