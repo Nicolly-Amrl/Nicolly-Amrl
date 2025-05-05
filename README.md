@@ -18,5 +18,7 @@ E-mail: rochaamaralnicolly@gmail.com
 ## 🚀 Linguagens e Tecnologias
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+
+  <div class="tenor-gif-embed" data-postid="3301439876884686025" data-share-method="host" data-aspect-ratio="0.86014" data-width="100%"><a href="https://tenor.com/view/madoka-magica-spin-gif-3301439876884686025">Madoka Magica Spin Sticker</a>from <a href="https://tenor.com/search/madoka+magica-stickers">Madoka Magica Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     
 ![c553d37f27e3a30fa89caeed1695132c](https://user-images.githubusercontent.com/6032062/138508203-68f52746-efbd-4710-a1c0-d0262ea8b406.gif)
