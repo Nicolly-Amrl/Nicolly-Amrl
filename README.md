@@ -20,4 +20,5 @@ E-mail: rochaamaralnicolly@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   
 <p align="center">
+  
 ![c553d37f27e3a30fa89caeed1695132c](https://user-images.githubusercontent.com/6032062/138508203-68f52746-efbd-4710-a1c0-d0262ea8b406.gif)
