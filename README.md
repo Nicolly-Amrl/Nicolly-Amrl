@@ -1,5 +1,5 @@
 
-## Olá, meu nome é Nicolly Amaral😁
+## Olá, meu nome é Nicolly Amaral <img src="https://img1.picmix.com/output/stamp/normal/6/0/4/1/1941406_8edac.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 70px; margin: 0px; width: 80px;" alt="Pink Ribbon (Unknown Credits), gif , animated , cute , aesthetic , pink ,  soft , birthday , ribbon - GIF animado grátis - PicMix" jsname="kn3ccd">
 
 ## 👤Sobre mim!
 Sou uma aluna do 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas, tenho interesse por programação e criação de interfaces.
