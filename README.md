@@ -16,9 +16,12 @@ E-mail: rochaamaralnicolly@gmail.com
 </p>
 
 ## 🚀 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  
 <p align="center">
 
 <img src="https://i.pinimg.com/originals/61/48/06/61480675fb6ff0da757e780f504f6b2c.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 230px; margin: 0px; width: 500px;" alt="Madoka Magica Gif" jsname="kn3ccd">
     
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+
