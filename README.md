@@ -2,9 +2,8 @@
 ## Olá, meu nome é Nicolly Amaral😁
 
 ## 👤Sobre mim!
--Sou uma aluna do 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas
--Tenho interesse por programação e criação de interfaces.
--Já desenvolvi um mini projeto de wireframe para o app EcoVision, focado em sustentabilidade e engajamento ambiental por meio da tecnologia.
+Sou uma aluna do 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas, tenho interesse por programação e criação de interfaces.
+Já desenvolvi um mini projeto de wireframe para o app EcoVision, focado em sustentabilidade e engajamento ambiental por meio da tecnologia.
 
 ## 📞Contatos
 E-mail: rochaamaralnicolly@gmail.com
