@@ -11,7 +11,7 @@ E-mail: rochaamaralnicolly@gmail.com
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Nicolly-Amrl&show_icons=true&theme=tokyonight&hide_title=false" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolly-Amrl&layout=compact&theme=tokyonight" />
 </p>
-## 🚀 Linguagens e Tecnologias
+ 🚀 Linguagens e Tecnologias
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 
