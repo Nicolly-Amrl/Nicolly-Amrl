@@ -6,6 +6,6 @@ Já desenvolvi um mini projeto de wireframe para o app EcoVision, focado em sust
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuasarJ03131806&show_icons=true&theme=tokyonight&hide_title=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuasarJ03131806&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolly-Amrl&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolly-Amrl&layout=compact&theme=tokyonight" />
 </p>
