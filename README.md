@@ -3,6 +3,8 @@ Sou aluna do 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas, t
 
 Já desenvolvi um mini projeto de wireframe para o app EcoVision, focado em sustentabilidade e engajamento ambiental por meio da tecnologia.
 
+E-mail: rochaamaralnicolly@gmail.com
+
 ## 📊 GitHub Stats
 
 <p align="center">
