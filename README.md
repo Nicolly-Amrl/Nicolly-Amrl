@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <title>Retângulo Rosa</title>
-    <style>
-        .retangulo {
-            background-color: pink; /* cor de fundo rosa */
-            color: white;           /* cor do texto branca */
-            width: 300px;           /* largura do retângulo */
-            height: 150px;          /* altura do retângulo */
-            display: flex;          /* centraliza o texto */
-            align-items: center;    /* alinha verticalmente */
-            justify-content: center;/* alinha horizontalmente */
-            font-size: 20px;        /* tamanho da fonte */
-            border-radius: 10px;    /* cantos arredondados, opcional */
-        }
-    </style>
-</head>
-<body>
-    <div class="retangulo">
-        Texto em branco no retângulo rosa
-    </div>
-</body>
-</html>
- 
  <img src="https://img1.picmix.com/output/stamp/normal/6/0/4/1/1941406_8edac.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 70px; margin: 0px; width: 80px;" alt="Pink Ribbon (Unknown Credits), gif , animated , cute , aesthetic , pink ,  soft , birthday , ribbon - GIF animado grátis - PicMix" jsname="kn3ccd">
  
 ## Olá, meu nome é Nicolly 
