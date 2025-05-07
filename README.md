@@ -28,6 +28,3 @@
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqsG2h-f-ZjkiLrOCvyF-k3lwvJCewrGEaA&amp;s" class="sFlh5c FyHeAf" alt="Pink python icon - Free pink site logo icons" jsname="JuXqh" style="max-width: 50px; width: 50px; height: 50px; margin: 0px;" data-ilt="1746549127958">
  
-##
-<p align="center">  
-<img src="https://giffiles.alphacoders.com/156/156536.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 270px; margin: 0px; width: 500px;" alt="Download Anime Puella Magi Madoka Magica Gif" jsname="kn3ccd">
