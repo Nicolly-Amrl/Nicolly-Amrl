@@ -9,6 +9,7 @@
   <li>Estou no 2º ano do Ensino Médio Técnico</li>
   <li>Curso Desenvolvimento de Sistemas</li>
   <li>Tenho interesse por programação e criação de interfaces</li>
+  <li>Realizei a criação de um wireframe do EcoVision</li>
 </ul>
 
 ## 🐇 Contatos
