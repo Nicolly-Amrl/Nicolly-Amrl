@@ -1,6 +1,6 @@
 
 
-## Olá, meu nome é Nicolly!! <img src="https://media3.giphy.com/media/10a8AOSeP6Rqfu/200w.gif?cid=6c09b952gwfc0o691vuni84io29wdlni5kefujtie274d5ga&amp;ep=v1_stickers_search&amp;rid=200w.gif&amp;ct=s" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 35px; height: 35px; margin: 0px; width: 35px;" alt="Kawaii Pink Stickers - Find &amp; Share on GIPHY" jsname="kn3ccd">
+## Olá, meu nome é Nicolly!! 
 
 ## 🐇 Sobre mim!
 <ul>
